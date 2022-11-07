@@ -1,0 +1,1 @@
+--add script later lol not yet need to make folders for requires
